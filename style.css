@@ -23,7 +23,6 @@ font-family:Verdana,Roboto,'游ゴシック','Yu Gothic','游ゴシック体','Y
 letter-spacing:.1em;
 line-height:1.5;
 padding:0 20px 60px;
-text-shadow:2px 2px 2px rgba(140,134,115,.6)
 }
 a{
 color:#fdc0c0
@@ -223,7 +222,8 @@ background:url(image/back02.gif);
 font-size:1.2em;
 font-weight:700;
 position:relative;
-margin:10px 0
+margin:10px 0;
+text-shadow:2px 2px 2px rgba(140,134,115,.6)
 }
 h2 span,.h2 span{
 background:#fffbf8;
@@ -239,6 +239,7 @@ font-size:1.2em;
 font-weight:700;
 line-height:18px;
 margin:20px 0
+text-shadow:2px 2px 2px rgba(140,134,115,.6)
 }
 dt{
 background:#fdc0c0;
